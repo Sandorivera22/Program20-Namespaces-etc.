@@ -1,0 +1,14 @@
+C:\Users\gabri\OneDrive\Desktop\NameSpace\bin\Debug\net9.0\NameSpace.exe
+C:\Users\gabri\OneDrive\Desktop\NameSpace\bin\Debug\net9.0\NameSpace.deps.json
+C:\Users\gabri\OneDrive\Desktop\NameSpace\bin\Debug\net9.0\NameSpace.runtimeconfig.json
+C:\Users\gabri\OneDrive\Desktop\NameSpace\bin\Debug\net9.0\NameSpace.dll
+C:\Users\gabri\OneDrive\Desktop\NameSpace\bin\Debug\net9.0\NameSpace.pdb
+C:\Users\gabri\OneDrive\Desktop\NameSpace\obj\Debug\net9.0\NameSpace.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\OneDrive\Desktop\NameSpace\obj\Debug\net9.0\NameSpace.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Desktop\NameSpace\obj\Debug\net9.0\NameSpace.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Desktop\NameSpace\obj\Debug\net9.0\NameSpace.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Desktop\NameSpace\obj\Debug\net9.0\NameSpace.dll
+C:\Users\gabri\OneDrive\Desktop\NameSpace\obj\Debug\net9.0\refint\NameSpace.dll
+C:\Users\gabri\OneDrive\Desktop\NameSpace\obj\Debug\net9.0\NameSpace.pdb
+C:\Users\gabri\OneDrive\Desktop\NameSpace\obj\Debug\net9.0\NameSpace.genruntimeconfig.cache
+C:\Users\gabri\OneDrive\Desktop\NameSpace\obj\Debug\net9.0\ref\NameSpace.dll
